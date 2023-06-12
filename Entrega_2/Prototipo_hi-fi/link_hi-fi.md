@@ -1,0 +1,1 @@
+[--- Clique aqui para acessar o protótipo hi-fi interativo no Figma ---](https://www.figma.com/proto/8R26YXxDIZtr4JRv5frJYv/Prot%C3%B3tipo-hi-fi-Autopass-interativo?node-id=0%3A1)
