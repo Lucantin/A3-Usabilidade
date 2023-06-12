@@ -1,0 +1,43 @@
+.container-options {
+    width: 100vw;
+    height: 90.9vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Inter';
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.button-container {
+    display: flex;
+}
+
+.button {
+    width: 228px;
+    height: 228px;
+    left: 121px;
+    top: 250px;
+
+    background: #25A0AF;
+    border-radius: 10px;
+
+    box-shadow: inset 5px 5px 6px rgba(255, 255, 255, 0.3), inset -5px -5px 6px rgba(0, 0, 0, 0.25);
+}
+
+.button-title {
+    font-family: 'Inter';
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+}
