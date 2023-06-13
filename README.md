@@ -14,13 +14,7 @@ O objetivo principal deste projeto é redesenhar a interface gráfica do ATM, to
 * [Sumário](#índice/sumário)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [1 - Estudo da aplicação](#1---estudo-da-aplicação)
-* [2 - Protótipos](#2---protótipos)
-* [3 - Avaliação Heurística](#3---avaliação-heurística)
-* [4 - Aplicação web](#4---aplicação-web)
-* [5 - Vídeo de apresentação](#5---vídeo-de-apresentação)
 * [Autores](#autores)
-* [Licença](#licença)
 
 # Tecnologias Usadas
 
@@ -36,16 +30,6 @@ O objetivo principal deste projeto é redesenhar a interface gráfica do ATM, to
 - [ ] Recarregar Bilhete Único em Dinheiro
 - [ ] Recarregar Bilhete Único via Cartão de Débito
 
-# 1 - Estudo da aplicação
-
-# 2 - Protótipos
-
-# 3 - Avaliação Heurística
-
-# 4 - Aplicação web
-
-# 5 - Vídeo de apresentação
-
 # Autores
 
 - Aline de Resende Barbosa - 32225080
@@ -54,8 +38,3 @@ O objetivo principal deste projeto é redesenhar a interface gráfica do ATM, to
 - Lucca Lamego Bento - 821134243
 - Thiago Teles Calazans Silva - 322130777
 - Wanessa Barbosa Rodrigues de Lima - 12722213277
-
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
