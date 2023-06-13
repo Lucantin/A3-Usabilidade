@@ -16,11 +16,6 @@ O objetivo principal deste projeto é redesenhar a interface gráfica do ATM, to
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Autores](#autores)
 
-# Tecnologias Usadas
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Requisitos Funcionais 
 
