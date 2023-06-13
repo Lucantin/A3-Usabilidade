@@ -1,0 +1,40 @@
+.table-info {
+    border-collapse: collapse;
+    width: 40%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+    color: black;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.button-confirm {
+    width: 255px;
+    height: 66px;
+    left: 384px;
+    top: 469px;
+    
+    margin-top: 3.5rem;
+
+    box-shadow: inset 5px 5px 6px rgba(255, 255, 255, 0.25), inset -5px -5px 6px rgba(0, 0, 0, 0.2);
+
+    background: #25A0AF;
+    border-radius: 10px;
+
+    cursor: pointer;
+}

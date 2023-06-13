@@ -1,0 +1,42 @@
+.button-class {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-charge {
+    margin: 20px;
+    width: 508px;
+    height: 75px;
+    left: 258px;
+    top: 233px;
+
+    box-shadow: inset 7px 7px 6px rgba(255, 255, 255, 0.25), inset -7px -7px 6px rgba(0, 0, 0, 0.2);
+
+    background: #25A0AF;
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+.button-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+
+}
+
+.title-charge {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}

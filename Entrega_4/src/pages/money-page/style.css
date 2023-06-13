@@ -1,0 +1,24 @@
+.mon-button {
+    width: 270px;
+    height: 69px;
+    left: 89px;
+    top: 275px;
+
+    box-shadow: inset 5px 5px 6px rgba(255, 255, 255, 0.25), inset -5px -5px 6px rgba(0, 0, 0, 0.2);
+
+    margin: 30px;
+
+    background: #25A0AF;
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+.mon-title {
+    font-family: 'Inter';
+    font-style: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}

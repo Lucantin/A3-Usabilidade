@@ -1,0 +1,77 @@
+.atencao {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.table-info {
+    border-collapse: collapse;
+    width: 40%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.info-insert {
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+    color: black;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.modal-content h2 {
+    margin-top: 0;
+}
+
+.modal-content button {
+    margin-top: 10px;
+}
+
+.button-confirms {
+    width: 282px;
+    height: 51px;
+    left: 50px;
+    top: 560px;
+    
+    box-shadow: inset 5px 5px 6px rgba(255, 255, 255, 0.25), inset -5px -5px 6px rgba(0, 0, 0, 0.2);
+
+    background: #25A0AF;
+    border-radius: 10px;
+
+    margin: auto;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+}
+
+.title-success {
+    color: green;
+}
